@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\ESTUDOS\CalcularPotencia\CalcularPotencia\bin\Debug\CalcularPotencia.exe.config
+C:\Users\usuario\Desktop\ESTUDOS\CalcularPotencia\CalcularPotencia\bin\Debug\CalcularPotencia.exe
+C:\Users\usuario\Desktop\ESTUDOS\CalcularPotencia\CalcularPotencia\bin\Debug\CalcularPotencia.pdb
+C:\Users\usuario\Desktop\ESTUDOS\CalcularPotencia\CalcularPotencia\obj\Debug\CalcularPotencia.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\ESTUDOS\CalcularPotencia\CalcularPotencia\obj\Debug\CalcularPotencia.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ESTUDOS\CalcularPotencia\CalcularPotencia\obj\Debug\CalcularPotencia.exe
+C:\Users\usuario\Desktop\ESTUDOS\CalcularPotencia\CalcularPotencia\obj\Debug\CalcularPotencia.pdb
